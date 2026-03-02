@@ -19,5 +19,5 @@ cargo run
 - **Buffered vs. Unbuffered**: Discovered that `BufReader` reduces the number of expensive system calls to the Operating System.
 - **Module Aliasing**: Used use `std::io::{self, ...}` to cleanly access the io namespace for error handling.
 
-## 🎓 Scholarship Goals (LiFT 2026)
+## Scholarship Goals (LiFT 2026)
 By mastering buffered I/O and proper error propagation, I am building the foundational skills required to develop high-performance, reliable Linux system utilities in Rust.

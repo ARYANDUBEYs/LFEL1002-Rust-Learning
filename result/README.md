@@ -19,5 +19,5 @@ cargo run
 - **Result Construction**: Practiced using `Ok` and `Err` as "wrappers" to satisfy the function's return type.
 - **Resource Ownership**: Successfully passed a `File` object from one function to another.
 
-## 🎓 Scholarship Goals (LiFT 2026)
+## Scholarship Goals (LiFT 2026)
 This project proves I can write modular, organized Rust code. By mastering different error-handling patterns, I am preparing to build reliable tools for the Linux ecosystem.

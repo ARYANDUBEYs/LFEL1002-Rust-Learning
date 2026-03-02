@@ -2,7 +2,7 @@ use regex::Regex;
 
 fn main() {
     let pattern = r"\d{3}"; 
-    let re = Regex::new(pattern).unwrap();
+    let re = Regex::new(pattern).expect("Fail!");
 
     let text = "The secret code is 404 and 505";
 

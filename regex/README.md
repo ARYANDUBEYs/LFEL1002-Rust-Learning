@@ -9,7 +9,7 @@ This program demonstrates how to use the regex crate to search for specific data
 
 ## What I Learned?
 - **External Crates**: Learned that specialized tools like `regex` must be added to `Cargo.toml` as they are not in the standard library.
-- **Safe Compilation**: Discovered that `Regex::new` returns a Result, requiring handling in case the regex pattern is mathematically invalid.
+- **Safe Compilation**: Discovered that `Regex::new` returns a `Result`, requiring handling in case the regex pattern is mathematically invalid.
 - **Pattern Logic**: Practiced using `\d` tokens to represent digits, allowing the program to find numbers regardless of their specific value.
 
 ## Scholarship Goals (LiFT 2026)

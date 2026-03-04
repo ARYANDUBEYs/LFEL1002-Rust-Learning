@@ -22,4 +22,3 @@ cargo run
 
 ## Scholarship Goals
 *Empathy in Engineering*: My goal is to write documentation from the perspective of a user who has never seen my code before.*Technical Writing*: I am practicing how to explain technical "blocking" operations (like `read_line`) in simple, everyday language.
-*Complete Documentation*: I aim to ensure my README files cover the full lifecycle of the program, from setup to final output.

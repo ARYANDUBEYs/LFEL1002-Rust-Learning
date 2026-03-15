@@ -16,10 +16,11 @@ A Rust-based hardware simulation that demonstrates how to control GPIO pins usin
 ## Prerequisites
 - To run this, you need Rust installed and the following dependencies in your `Cargo.toml`:
 
-Ini, TOML
+Ini, TOML:
+```
 [dependencies]
 embedded-hal = "0.2.7"
-
+```
 ## Usage
 1. Clone this repository.
 2. Run the program using Cargo:
